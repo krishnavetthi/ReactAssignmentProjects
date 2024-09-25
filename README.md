@@ -1,11 +1,11 @@
 # ReactAssignmentProjects
 
-#Todo App --> https://github.com/krishnavetthi/TodoApp
+# Todo App --> https://github.com/krishnavetthi/TodoApp
 
-#Rock Paper Scissors Game ---> https://github.com/krishnavetthi/RockPaperScissors
+# Rock Paper Scissors Game ---> https://github.com/krishnavetthi/RockPaperScissors
 
-#Recipies App ---> https://github.com/krishnavetthi/RecipieApp
+# Recipies App ---> https://github.com/krishnavetthi/RecipieApp
 
-#Pokemon App ---> https://github.com/krishnavetthi/PokemonApp
+# Pokemon App ---> https://github.com/krishnavetthi/PokemonApp
 
-#Movies App ---> https://github.com/krishnavetthi/MovieApp
+# Movies App ---> https://github.com/krishnavetthi/MovieApp
